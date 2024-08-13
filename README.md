@@ -1,6 +1,7 @@
 # g1_back
 
 This template should help get you started developing with Vue 3 in Vite.
+實體部屬網站:https://tibamef2e.com/cid101/g1/back/
 
 ## Recommended IDE Setup
 
